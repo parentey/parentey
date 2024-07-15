@@ -31,11 +31,3 @@
 
 - Falo inglês fluentemente.
 
-# Projeto DIO - IAS Generativas! ;)
-
-## 📒 Descrição
-Cat accidentally opening a portal to another world, magical realism, whimsical, detailed fur with magical glow, vibrant color palette, portal to another world, high quality, magical realism, detailed fur, mischievous expression, vibrant colors, whimsical lighting.
-
-## 🤖 Tecnologias Utilizadas
-Para a criação de imagem, eu utilizei o Midjourney em sua versão gratuita. 
-
