@@ -25,8 +25,6 @@
 
 
 ## 🎓 **Estudos** 
-- Atualmente cursando Python AI Backend Developer pela Dio;
-
 - E um Bootcamp de MySQL completo pela Udemy!
 
 - Falo inglês fluentemente.
